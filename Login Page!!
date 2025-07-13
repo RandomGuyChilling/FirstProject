@@ -39,7 +39,7 @@
     <script>
 
         const correctUsername = "RandomGuyChilling";
-        const correctPassword = "Y0u_sh0u1d_n3vEr_puT_Cr3d5_1n_pUBL1c_G1thUb";
+        const correctPassword = "OmahTIAcademy{Y0u_sh0u1d_n3vEr_puT_Cr3d5_1n_pUBL1c_G1thUb}";
 
 
         // Get form and message elements from the DOM
